@@ -1,0 +1,25 @@
+# Data files (PaySim CSV is too large for GitHub)
+*.csv
+*.tsv
+data/
+raw/
+*.backup
+*.dump
+
+# Credentials & config
+.env
+*.env
+config.local.*
+*.pgpass
+
+# IDE / Editor
+.idea/
+.vscode/
+*.sublime-*
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
